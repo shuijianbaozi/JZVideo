@@ -39,7 +39,7 @@ public class Fragment_1_Base extends Fragment implements View.OnClickListener {
     private Button mOrientation, mExtendsNormalActivity,
             mRotationAndVideoSize, mCustomMediaPlayer, mPreLoading, mScreenRotate;
     private Jzvd.JZAutoFullscreenListener mSensorEventListener;
-    private SensorManager mSensorManager;
+    private SensorManager mSensorManager;//传感器
 
     @Nullable
     @Override
