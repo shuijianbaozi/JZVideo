@@ -42,6 +42,7 @@ import cn.jzvd.demo.R;
 
 /**
  * Created by MinhDV on 5/3/18.
+ * 播放引擎??
  */
 public class JZMediaExo extends JZMediaInterface implements Player.EventListener, VideoListener {
     private SimpleExoPlayer simpleExoPlayer;
